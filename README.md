@@ -12,3 +12,5 @@ make sga3
 
 ## Acknowledgement
 ##### This C code is based upon D.E. Goldberg's PASCAL code in 1989 ed. of Genetic Algorithms in Search, Optimisation and Machine Learning.
+
+##### ©SAA 2022
