@@ -10,4 +10,5 @@ make sga3
 ##### The compiled code is run by writing an objective function to be optimised by SGA in *C*, two such sample objective function codes are provided in the downloaded folder. 
 ##### File *sga3.var* contains the SGA parameters. These are explained in **Simple Genetic Algorithm Explainer.pdf** [Section 4]. Results are stored in *genout.dat*.
 
-
+## Acknowledgement
+##### This C code is based upon D.E. Goldberg's PASCAL code in an edition of Genetic Algorithms in Search, Optimisation and Machine Learning.
