@@ -11,4 +11,4 @@ make sga3
 ##### File *sga3.var* contains the SGA parameters. These are explained in **Simple Genetic Algorithm Explainer.pdf** [Section 4]. Results are stored in *genout.dat*.
 
 ## Acknowledgement
-##### This C code is based upon D.E. Goldberg's PASCAL code in an edition of Genetic Algorithms in Search, Optimisation and Machine Learning.
+##### This C code is based upon D.E. Goldberg's PASCAL code in 1989 ed. of Genetic Algorithms in Search, Optimisation and Machine Learning.
