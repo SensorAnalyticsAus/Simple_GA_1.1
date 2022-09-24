@@ -1,4 +1,8 @@
 /*                          SGA3.C                    */
+/*********************************************************
+SGA ANSI C code by Asad I. Khan Sensor Analytics Australia
+**********************************************************/
+
 #define Choice 1
 #define  SHORT 1
 #define SunOs  0
